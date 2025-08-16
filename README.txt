@@ -1,6 +1,8 @@
 Course: CS6.302 – Software System Development
 Activity: Lab 2 (Stored Procedures & Cursors)
 
+github link --> https://github.com/HRITIK-RANJAN/SQL-ACTIVITY
+
 Q1 – ListAllSubscribers()
 Uses a cursor to iterate through all subscribers and prints their names one by one.
 run --> call ListAllSubscribers();
